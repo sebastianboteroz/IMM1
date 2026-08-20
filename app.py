@@ -31,9 +31,9 @@ st.markdown(
     """
     <div style="background-color: #F0EDFF; border-left: 5px solid #6C5CE7; padding: 12px 16px; border-radius: 6px; margin-top: 15px; margin-bottom: 15px;">
         <span style="font-size: 18px; font-weight: bold; color: #2D3436;">
-            🎧 ¡¿Quieres escucharlo en voz alta?!
+            🎧 ¿Quieres escucharlo en voz alta?
         </span>
-        <p style="margin: 4px 0 0 0; color: #636E72; font-size: 14px;">
+        <p style="margin: 4px 0 0 0; color: #000000; font-size: 14px;">
             Copia el texto de arriba y pégalo en el recuadro a continuación.
         </p>
     </div>
