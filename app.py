@@ -7,7 +7,7 @@ from gtts import gTTS
 from PIL import Image
 import base64
 
-st.title("Conversión de Texto a Audio")
+st.title("Convierte de Texto a Audio")
 image = Image.open('tomyjerry.jpg')
 st.image(image, width=350)
 with st.sidebar:
