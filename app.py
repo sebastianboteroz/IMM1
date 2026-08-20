@@ -74,7 +74,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-if st.button("convertir a Audio"):
+if st.button("Convertir a Audio"):
      result, output_text = text_to_speech(text, 'com',lg)
      audio_file = open(f"temp/{result}.mp3", "rb")
      audio_bytes = audio_file.read()
